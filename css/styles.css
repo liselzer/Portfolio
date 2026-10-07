@@ -126,3 +126,5 @@ html,body,*{cursor:var(--lily)!important}
 a,a *,button,button *,.btn,.tabs button,.cn,.pcard:not(.locked),.pcard:not(.locked) *,.exp,.exp *,summary,label,select,[role=button]{cursor:var(--lily2)!important}
 
 .mgrid.even .mi img,.mgrid.even .mi video{aspect-ratio:4/3;object-fit:cover;background:#111}
+
+.nomedia{border:1px dashed var(--bd);padding:24px 26px;max-width:64ch;background:#fafafa}.nomedia b{display:block;font-size:16px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#000}.nomedia span{display:block;margin-top:8px;font-size:17px;color:var(--soft);line-height:1.55}

@@ -21,4 +21,4 @@ const CS={siemens:{status:"Audit presented · next steps open",after:"Response �
 ["Outcome",`<p>The finished installation was exhibited as a walk-in cave. Visitors were fitted with sensors and watched the room respond to their own signals, and small groups gathered around each session. No audience metrics were collected, so none are claimed here.</p>`,"OUTCOME 01"]]},
 'nvidia-ucsc':{status:"In progress · research complete, prototype design coming soon",soon:"Prototype design is the next phase. Wireframes, the second usability round and the interactive prototype will be added here.",S:[
 ["Mission brief","Engineering-heavy teams often lack dedicated UX resources, so usability issues are found late, after designs have already been implemented. This HCI capstone, run with NVIDIA as the industry partner, researched how an AI UX agent could pre-screen interfaces for usability issues before an investment in human testing. "],
-]]}};
+]}};
